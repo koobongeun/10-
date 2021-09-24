@@ -6,7 +6,7 @@
 
 EX) 맛집 공유 서비스를 위해 Google 지도 서비스 사용
 
-![image-20210924123925756](C:\Users\82106\AppData\Roaming\Typora\typora-user-images\image-20210924123925756.png)
+![image-20210924123925756](이미지/image-20210924123925756.png)
 
 - /map/위도&경도 >>>>>>>> API
 
