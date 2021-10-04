@@ -1,4 +1,4 @@
-# 🐳김고래 Process & Thread
+# [10분 테코톡] 🐳김고래 Process & Thread
 
 ## Process
 
